@@ -15,7 +15,7 @@ test_requires 'Test::More' => '0.88';
 no_index 'directory' => qw{ t eg share inc};
 homepage 'http://padre.perlide.org/trac/wiki/PadrePluginSnippet';
 bugtracker 'http://padre.perlide.org/';
-repository 'http://svn.perlide.org/padre/trunk/Padre-Plugin-Snippet';
+repository 'https://github.com/PadreIDE/Padre-Plugin-Snippet';
 
 install_share_with_mofiles;
 
